@@ -9,6 +9,7 @@ public class HolaMundo {
 		System.out.println("Hola mundo!");
 		new Coche();
 		new Camion();
+		new Camion();
 	}
 
 }
